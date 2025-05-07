@@ -21,5 +21,6 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Have Fun...
+Deployed on vercel, test it out have fun
+https://ai-genius-nextjs.vercel.app/
 
